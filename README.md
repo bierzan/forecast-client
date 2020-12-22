@@ -1,5 +1,6 @@
 # Five Day Forecast App
 Service to get five-day weather forecast for every main polish administrative area (voivodeship).
+Workshop application to practice reactive approach to REST service.
 
 ## Table of contents
 * [Technologies](#technologies)
