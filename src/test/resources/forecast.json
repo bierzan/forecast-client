@@ -1,0 +1,172 @@
+{
+  "Headline": {
+    "EffectiveDate": "2020-11-23T07:00:00+01:00",
+    "EffectiveEpochDate": 1606111200,
+    "Severity": 5,
+    "Text": "Przewidywane przelotne opady w: poniedziałek rano",
+    "Category": "rain",
+    "EndDate": "2020-11-23T13:00:00+01:00",
+    "EndEpochDate": 1606132800,
+    "MobileLink": "http://m.accuweather.com/pl/pl/belchatow/97-400/extended-weather-forecast/351980_pc?unit=c",
+    "Link": "http://www.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?unit=c"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2020-11-20T07:00:00+01:00",
+      "EpochDate": 1605852000,
+      "Temperature": {
+        "Minimum": {
+          "Value": -3.9,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 3.2,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 3,
+        "IconPhrase": "Częściowo słonecznie",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 34,
+        "IconPhrase": "Przeważnie bezchmurnie",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?unit=c",
+      "Link": "http://www.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?unit=c"
+    },
+    {
+      "Date": "2020-11-21T07:00:00+01:00",
+      "EpochDate": 1605938400,
+      "Temperature": {
+        "Minimum": {
+          "Value": -1.0,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 2.2,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Przejściowe zachmurzenia",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 36,
+        "IconPhrase": "Przejściowe zachmurzenia",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?day=1&unit=c",
+      "Link": "http://www.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?day=1&unit=c"
+    },
+    {
+      "Date": "2020-11-22T07:00:00+01:00",
+      "EpochDate": 1606024800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 1.9,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 5.9,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Zachmurzenie duże",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Zachmurzenie duże",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?day=2&unit=c",
+      "Link": "http://www.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?day=2&unit=c"
+    },
+    {
+      "Date": "2020-11-23T07:00:00+01:00",
+      "EpochDate": 1606111200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 0.6,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 5.2,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 12,
+        "IconPhrase": "Przelotne opady",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Night": {
+        "Icon": 36,
+        "IconPhrase": "Przejściowe zachmurzenia",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?day=3&unit=c",
+      "Link": "http://www.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?day=3&unit=c"
+    },
+    {
+      "Date": "2020-11-24T07:00:00+01:00",
+      "EpochDate": 1606197600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 1.4,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 5.2,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Przejściowe zachmurzenia",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Zachmurzenie duże",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?day=4&unit=c",
+      "Link": "http://www.accuweather.com/pl/pl/belchatow/97-400/daily-weather-forecast/351980_pc?day=4&unit=c"
+    }
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "date": "2020-11-19 12:00:00",
+  "voivodeshipForecasts": [
+    {
+      "voivodeship": {
+        "id": "02",
+        "name": "dolnośląskie",
+        "locationKey": "342848_PC"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "04",
+        "name": "kurawsko-pomorskie",
+        "locationKey": "350522_PC"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "06",
+        "name": "lubelskie",
+        "locationKey": "274231"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "08",
+        "name": "lubuskie",
+        "locationKey": "274269"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "10",
+        "name": "łódzkie",
+        "locationKey": "352845_PC"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "12",
+        "name": "małopolskie",
+        "locationKey": "274455"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "14",
+        "name": "mazowieckie",
+        "locationKey": "334306_PC"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "16",
+        "name": "opolskie",
+        "locationKey": "274945"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "18",
+        "name": "podkarpackie",
+        "locationKey": "265516"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "20",
+        "name": "podlaskie",
+        "locationKey": "275110"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "22",
+        "name": "pomorskie",
+        "locationKey": "275174"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "24",
+        "name": "śląskie",
+        "locationKey": "275781"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "26",
+        "name": "świętokrzyskie",
+        "locationKey": "275941"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "28",
+        "name": "warmińsko-mazurskie",
+        "locationKey": "266361"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "30",
+        "name": "wielkopolskie",
+        "locationKey": "276594"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "voivodeship": {
+        "id": "32",
+        "name": "zachodniopomorskie",
+        "locationKey": "347716_PC"
+      },
+     "forecast": {
+        "dailyForecast": [
+          {
+            "date": "2020-11-19",
+            "temperature": {
+              "min": -3.9,
+              "max": 3.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": -1.0,
+              "max": 2.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-21",
+            "temperature": {
+              "min": 1.9,
+              "max": 5.9,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-22",
+            "temperature": {
+              "min": 0.6,
+              "max": 5.2,
+              "unit": "C"
+            }
+          },
+          {
+            "date": "2020-11-20",
+            "temperature": {
+              "min": 1.4,
+              "max": 5.2,
+              "unit": "C"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
